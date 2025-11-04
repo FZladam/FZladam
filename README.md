@@ -1,16 +1,14 @@
-## Hi there 👋
+#👋 Salut, Je suis Fatima Zahra (FZladam) 
 
-<!--
-**FZladam/FZladam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis étudiante en informatique à l'UQAM. Ce qui me passionne le plus, c'est tout ce qui touche au développement informatique. J'aime comprendre comment les choses fonctionnent et construire des solutions utiles et sécurusées.
 
-Here are some ideas to get you started:
+## 🚀 Projets récents 
+- 🚙  FacturationRoulonsVehiculesVerts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Compétences
+- Langages : JAVA, Javascript, SQL
+- Outils : GitHub
+
+## 📚 Ce que j'apprneds en ce moment
+- Résolution de problèmes LeetCode
+  
